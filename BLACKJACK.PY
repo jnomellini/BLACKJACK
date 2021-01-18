@@ -55,6 +55,8 @@ class Hand:
         while self.value > 21 and self.aces:
             self.value -= 10
             self.aces -= 1  
+		
+# This is a test sentence to try and undersatand how pull requests work
 
 
 	
